@@ -1,0 +1,18 @@
+{
+  "events": [
+    {
+      "name": "Comedy Night Live",
+      "date": "2026-02-10",
+      "venue": "Indiranagar Social",
+      "city": "bangalore",
+      "url": "https://example.com/event/1"
+    },
+    {
+      "name": "Startup Networking Meetup",
+      "date": "2026-02-15",
+      "venue": "Koramangala Club",
+      "city": "bangalore",
+      "url": "https://example.com/event/2"
+    }
+  ]
+}
